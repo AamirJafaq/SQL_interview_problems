@@ -1,4 +1,4 @@
-# Real SQL Interview Questions
+# 7 Real SQL Interview Questions
 This repository contains **seven real SQL interview questions** from companies like LinkedIn, Twitter, Facebook, and Tesla.  
 Each question includes a problem statement along with a proposed solution. Found an error or a better approach? Leave a comment or open an issue so it can be reviewed and improved!
 
