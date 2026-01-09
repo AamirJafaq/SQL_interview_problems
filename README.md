@@ -23,6 +23,6 @@ This project is open-source and free to use. Feel free to share and adapt the co
 
 If you find this repository helpful, give it a ⭐ and share it with others preparing for SQL interviews!
 
-### 👤 Author
+### 👤 Contributor
 **Aamir Khan** \
 Research Analyst, **Center for Research & Development in Mathematics and Applications (CIDMA)**
